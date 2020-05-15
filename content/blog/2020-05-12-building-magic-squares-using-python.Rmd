@@ -15,19 +15,19 @@ A magic square is an **n** x **n** square grid (where n is the number of cells o
 
 There are multiple ways to create such squares. I'm presenting the code that constructs magic squares for any odd value of n and displays them for n = 1, 3, 5, 7, 9, 11 and 13. I implemented an algorithm given by Dr Bulko during his CS303E class at The University of Texas. It can be find here: http://www.cs.utexas.edu/~bulko/2020spring/303E.hw13.html
 
-"Make a blank n by n grid. We need to populate it with the integers from 1 to n2.
+"Make a blank *n* by *n* grid. We need to populate it with the integers from 1 to *n2*.
 
-Set i to 1.
+Set *i* to 1.
 
 Set the current grid position to the location in the middle of the top row.
 
-Insert the number i into the current grid position.
+Insert the number *i* into the current grid position.
 
-If i is equal to n2, we're done.
+If *i* is equal to *n2*, we're done.
 
-If i is a multiple of n, move the current grid position down one (i.e., in the direction of "south" on a map). Otherwise, move the current grid position diagonally up and right (i.e., in a "northeast" direction on a map), wrapping to the first column or last row if the move leads outside the grid.
+If *i* is a multiple of *n*, move the current grid position down one (i.e., in the direction of "south" on a map). Otherwise, move the current grid position diagonally up and right (i.e., in a "northeast" direction on a map), wrapping to the first column or last row if the move leads outside the grid.
 
-Increment i by 1.
+Increment *i* by 1.
 
 Return to step 4."
 
