@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589508966206.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2587925622",
+    "id" : "26C401F0",
+    "lastKnownWriteTime" : 1589509062,
+    "last_content_update" : 1589509062128,
+    "path" : "~/Desktop/SDS/content/blog/2020-05-12-building-magic-squares-using-python.Rmd",
+    "project_path" : "content/blog/2020-05-12-building-magic-squares-using-python.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,106",
+        "scrollLine" : "3"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
