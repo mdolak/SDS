@@ -9,7 +9,7 @@ tags:
   - python3
 description: ''
 ---
-A magic square is a n x n square grid (where n is the number of cells on each side) filled with distinct positive integers in the range 1,2,...,n^2 such that each cell contains a different integer and the sum of the integers in each row, column and diagonal is equal. An example is shown in the picture below.
+A magic square is an **n** x **n** square grid (where n is the number of cells on each side) filled with distinct positive integers in the range 1,2,...,n^2 such that each cell contains a different integer and the sum of the integers in each row, column and diagonal is equal. An example is shown in the picture below.
 
 ![](/blog/2020-05-12-building-magic-squares-using-python_files/magic_square.png){width=250px height=200px}
 
