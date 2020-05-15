@@ -31,7 +31,7 @@ Increment *i* by 1.
 
 Return to step 4."
 
-**NOTE This code is an intelectual property and should not be copied by anyone taking CS 303E course at the University of Texas at Austin!**
+**NOTE This code is intellectual property and should not be copied by anyone taking CS 303E course at the University of Texas at Austin!**
 ```{r}
 library(reticulate)
 ```
