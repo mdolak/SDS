@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589505493440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1C5DD994",
+    "lastKnownWriteTime" : 1589505601,
+    "last_content_update" : 1589505601279,
+    "path" : "~/Desktop/SDS/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "6,20",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
